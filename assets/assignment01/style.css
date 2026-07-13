@@ -1,11 +1,14 @@
 body {
-    background-color: antiquewhite;
+    background-color: white;
+    height: auto;
+    width: auto;
+    padding-top: 12px;
 }
 
-nav
+    nav
 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
     /* .logo {
@@ -15,11 +18,65 @@ nav
 
     .menu {
         display: flex;
-        justify-content: space-evenly;
+        /* flex: 1; */
+        /* justify-content: space-between; */
+        /* align-items:center; */
+        gap: 25px;
+        padding-top: 12px;
+
     }
 
-    .button {
-        align-items: flex-end;
-
+    .btn-register {
+        /* justify-content:space-around;
+        align-items: flex-end; */
+        /* padding: 2px; */
+    background: blue;
+    color: white;
+    /* border: 1px; */
+    border-radius: 8px;
+    border-color: blue;
+    height: 40px;
+    width: 150px;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    footer {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color:#0D1B2A;
+        height: 50px;
+    }
+
+    /* .footer-logo {
+        height:auto;
+        width:auto; */
+
+        .copyright {
+            color:white;
+        }
+        .pt {
+            display: flex;
+            color:white;
+            gap: 20px;
+        }
+
+
+
 
