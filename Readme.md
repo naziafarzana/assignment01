@@ -101,7 +101,7 @@ This is the **only** section where AI usage is expected and encouraged.
 
 - Record a **max 5-minute video** explaining the following basic HTML & CSS questions in your own words:
 
-  1. What is the difference between a `<div>` and a `<span>`? When would you use each?
+  1. What is the difference between a `<div>` and a `<div>`? When would you use each?
   2. What is the CSS Box Model? Explain `content`, `padding`, `border`, and `margin`.
   3. What is the difference between a CSS `class` and an `id`? When should you use one over the other?
   4. What is Flexbox, and what's the difference between `justify-content` and `align-items`?
