@@ -1,3 +1,25 @@
 body {
-    background-color: aliceblue;
+    background-color: antiquewhite;
 }
+
+nav
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+    /* .logo {
+        display: flex;
+        justify-content: flex-start;
+    } */
+
+    .menu {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .button {
+        align-items: flex-end;
+
+    }
+
